@@ -132,4 +132,4 @@ By integrating visual understanding, natural narration, and automated video gene
 
 ---
 
-Would you like me to add a **“Setup & Installation”** section next (commands and steps to run it locally)? It’ll make your GitHub README complete and ready to publish.
+
