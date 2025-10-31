@@ -1,6 +1,4 @@
-Absolutely! Here's a **more detailed and professional version** of your README file — perfect for your **GitHub project** 👇
 
----
 
 # 🎓 EduVisionAI: PDF-to-Educational Video Generator
 
